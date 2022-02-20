@@ -1,0 +1,840 @@
+sound_bank_all_sounds
+footsteps/foot1a.wav
+footsteps/foot2a.wav
+footsteps/foot3a.wav
+footsteps/foot4a.wav
+footsteps/spur1.wav
+footsteps/spur2.wav
+footsteps/spur3.wav
+footsteps/spur4.wav
+footsteps/pad1a.wav
+footsteps/pad2a.wav
+footsteps/pad3a.wav
+footsteps/pad4a.wav
+creature_female/femfoot1.wav
+creature_female/femfoot2.wav
+creature_female/femfoot3.wav
+creature_female/femfoot4.wav
+footsteps/bigfoot1.wav
+footsteps/bigfoot2.wav
+footsteps/bigfoot3.wav
+footsteps/bigfoot4.wav
+footsteps/footwet1.wav
+footsteps/footwet2.wav
+footsteps/footwet3.wav
+footsteps/footwet4.wav
+creature_insect/fly.wav
+swipe1.wav
+swipe2.wav
+swipe3.wav
+swipe4.wav
+swipe5.wav
+swipe2.wav
+payday1.wav
+payday2.wav
+payday3.wav
+traps/rockroll.wav
+splash.wav
+creature_spells/heal.wav
+creature_spells/speedup2.wav
+keeper_spells/possess.wav
+creature_spells/wind3.wav
+creature_spells/wall.wav
+keeper_spells/quake.wav
+creature_spells/fireball.wav
+creature_spells/bow.wav
+rooms/belltoll.wav
+creature_spells/firepuff.wav
+explode.wav
+creature_spells/coldpuff.wav
+creature_spells/freeze.wav
+creature_spells/frozen.wav
+keeper_spells/twinkle2.wav
+creature_spells/gascloud.wav
+creature_spells/animissl.wav
+creature_spells/anigren.wav
+creature_spells/lightng.wav
+creature_spells/breath.wav
+creature_spells/smsplat1.wav
+tinysplt.wav
+spit.wav
+gui/button1.wav
+gui/button2.wav
+gui/button3.wav
+creature_spells/dig1.wav
+creature_spells/dig2.wav
+creature_spells/dig3.wav
+creature_spells/dig4.wav
+creature_spells/dig5.wav
+creature_spells/dig6.wav
+creature_spells/tunnel4.wav
+creature_spells/tunnel5.wav
+creature_spells/tunnel6.wav
+terrain/rocks1.wav
+terrain/rocks2.wav
+terrain/rocks3.wav
+keeper_spells/slap.wav
+creature_spells/stars3.wav
+gui/slab3.wav
+terrain/torch2.wav
+coinsack.wav
+null.wav	255
+null.wav	255
+null.wav	255
+keeper_spells/fanfare1.wav
+keeper_spells/fanfare3.wav
+rooms/training.wav
+rooms/workshop.wav
+whip.wav
+coindrop.wav
+gui/buzzer.wav
+traps/alarm.wav
+terrain/doorup2.wav
+terrain/doordown.wav
+rooms/engine.wav
+creature_spells/fart1.wav
+creature_spells/fart2.wav
+creature_spells/fart3.wav
+creature_spells/fart4.wav
+creature_spells/fart5.wav
+creature_spells/fart6.wav
+chicken/chick1a.wav
+chicken/chick1b.wav
+chicken/chick1c.wav
+chicken/chick1d.wav
+chicken/chick1e.wav
+chicken/chick1f.wav
+chicken/chick2a.wav
+chicken/chick2b.wav
+chicken/chick2c.wav
+chicken/chick3a.wav
+chicken/chick3b.wav
+chicken/chick3c.wav
+chicken/chick4a.wav
+chicken/chick4b.wav
+chicken/chick4c.wav
+suck.wav
+takeover.wav
+gui/slab4.wav
+gui/digmark.wav
+gui/cant.wav
+strikes/swordhit.wav
+strikes/swonsw1.wav
+strikes/swonsw2.wav
+strikes/swonsw3.wav
+strikes/swonsw4.wav
+strikes/swonarm1.wav
+strikes/swonarm2.wav
+strikes/swonarm3.wav
+strikes/swonwal1.wav
+strikes/swonwal2.wav
+strikes/swonwal3.wav
+strikes/swonwod1.wav
+strikes/swonwod2.wav
+strikes/swonwod3.wav
+strikes/swonhrt3.wav
+strikes/swonhrt3.wav
+strikes/swonhrt3.wav
+strikes/fisthit.wav
+strikes/hitwall1.wav
+strikes/hitwall2.wav
+strikes/hitwall3.wav
+strikes/hitwood1.wav
+strikes/hitwood2.wav
+strikes/hitwood3.wav
+strikes/hithart1.wav
+strikes/hithart2.wav
+strikes/hithart3.wav
+terrain/lava1.wav
+terrain/lava2.wav
+terrain/lava3.wav
+rooms/beat1.wav
+rooms/beat2a.wav
+heartdie.wav
+creature_spells/armour.wav
+creature_spells/conceal.wav
+rooms/prayers.wav
+rooms/scavenge.wav
+traps/lgtnball.wav
+makebed.wav
+rooms/resdone.wav
+rooms/rescomp.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+creature_dog/hound1.wav
+creature_dog/hound2.wav
+creature_dog/hound3.wav
+creature_dog/dogpiss.wav
+null.wav	255
+null.wav	255
+null.wav	255
+gui/tabhit.wav
+traps/trigtrap.wav
+null.wav	255
+heartdie.wav
+null.wav	255
+keeper_spells/armagedn.wav
+footsteps/snowft1.wav
+footsteps/snowft2.wav
+footsteps/snowft3.wav
+footsteps/snowft4.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+landview/niceland.wav
+landview/badland.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+torture_screen/tort01.wav
+torture_screen/tort02.wav
+torture_screen/tort03.wav
+torture_screen/tort04.wav
+torture_screen/tort05.wav
+torture_screen/tort06.wav
+torture_screen/tort07.wav
+torture_screen/tort08.wav
+torture_screen/tort09.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+creature_horny/horntor1.wav
+creature_horny/horntor2.wav
+creature_horny/horntor3.wav
+creature_horny/hornhapy.wav
+creature_horny/hornsad1.wav
+creature_horny/hornhit1.wav
+creature_horny/hornhit2.wav
+creature_horny/hornhit3.wav
+creature_horny/horndie1.wav
+creature_horny/horndie2.wav
+creature_horny/hornhang.wav
+creature_horny/horndrop.wav
+creature_horny/horntor1.wav
+creature_horny/horntor2.wav
+creature_horny/horntor3.wav
+creature_horny/hornslap.wav
+null.wav	255
+creature_male/man1fgt1.wav
+creature_male/man1fgt2.wav
+creature_male/man1fgt3.wav
+creature_male/man1hapy.wav
+creature_male/man1sad.wav
+creature_male/man1hit1.wav
+creature_male/man1hit2.wav
+creature_male/man1hit3.wav
+creature_male/man1die1.wav
+creature_male/man1die2.wav
+null.wav	255
+creature_male/man1drop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1hit1.wav
+null.wav	255
+creature_troll/gobtor1.wav
+creature_troll/gobtor2.wav
+creature_troll/gobtor1.wav
+creature_troll/gobhapy.wav
+creature_troll/gobsad.wav
+creature_troll/gobhit1.wav
+creature_troll/gobhit2.wav
+creature_troll/gobhit3.wav
+creature_troll/gobdie1.wav
+creature_troll/gobdie2.wav
+creature_troll/gobhang.wav
+creature_troll/gobdrop.wav
+creature_troll/gobtor1.wav
+creature_troll/gobtor2.wav
+creature_troll/gobtor1.wav
+creature_troll/gobslap.wav
+null.wav	255
+creature_dragon/dragtor1.wav
+creature_dragon/dragtor2.wav
+creature_dragon/dragtor3.wav
+creature_dragon/draghapy.wav
+creature_dragon/dragsad.wav
+creature_dragon/draghit1.wav
+creature_dragon/draghit2.wav
+creature_dragon/draghit3.wav
+creature_dragon/dragdie.wav
+creature_dragon/dragdie.wav
+creature_dragon/draghang.wav
+creature_dragon/dragdrop.wav
+creature_dragon/dragtor1.wav
+creature_dragon/dragtor2.wav
+creature_dragon/dragtor3.wav
+creature_dragon/dragslap.wav
+null.wav	255
+creature_demonspawn/dspwtor1.wav
+creature_demonspawn/dspwtor2.wav
+creature_demonspawn/dspwtor2.wav
+creature_demonspawn/dspwhapy.wav
+creature_demonspawn/dspwsad.wav
+creature_demonspawn/dspwhit1.wav
+creature_demonspawn/dspwhit2.wav
+creature_demonspawn/dspwhit3.wav
+creature_demonspawn/dspwdie1.wav
+creature_demonspawn/dspwdie2.wav
+creature_demonspawn/dspwhang.wav
+creature_demonspawn/dspwdrop.wav
+creature_demonspawn/dspwtor1.wav
+creature_demonspawn/dspwtor2.wav
+creature_demonspawn/dspwtor1.wav
+creature_demonspawn/dspwslap.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+creature_digger/imptor1.wav
+creature_digger/imptor2.wav
+creature_digger/imptor3.wav
+creature_digger/impslap.wav
+null.wav	255
+creature_female/femtor1.wav
+creature_female/femtor2.wav
+creature_female/femtor3.wav
+creature_female/femhapy.wav
+creature_female/femsad.wav
+creature_female/femhit1.wav
+creature_female/femhit1.wav
+creature_female/femhit1.wav
+creature_female/femdie1.wav
+creature_female/femdie2.wav
+null.wav	255
+creature_female/femdrop.wav
+creature_female/femtor1.wav
+creature_female/femtor2.wav
+creature_female/femtor3.wav
+creature_female/femhit1.wav
+null.wav	255
+creature_male/man2fgt1.wav
+creature_male/man1fgt1.wav
+creature_male/man1fgt2.wav
+creature_male/man2hapy.wav
+creature_male/man2sad.wav
+creature_male/man2hit1.wav
+creature_male/man2hit2.wav
+creature_male/man2hit3.wav
+creature_male/man2die1.wav
+creature_male/man2die2.wav
+creature_wizard/wizhang.wav	255
+creature_male/man2drop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man2hit1.wav
+null.wav	255
+creature_horny/horntor1.wav
+creature_horny/horntor2.wav
+creature_horny/horntor3.wav
+creature_horny/hornhapy.wav
+creature_horny/hornsad1.wav
+creature_horny/hornhit1.wav
+creature_horny/hornhit2.wav
+creature_horny/hornhit3.wav
+creature_horny/horndie1.wav
+creature_horny/horndie2.wav
+creature_horny/hornhang.wav
+creature_horny/horndrop.wav
+creature_horny/horntor1.wav
+creature_horny/horntor2.wav
+creature_horny/horntor3.wav
+creature_horny/hornslap.wav
+null.wav	255
+creature_digger/imptor1.wav
+creature_digger/imptor2.wav
+creature_digger/imptor3.wav
+creature_digger/imphapy.wav
+creature_digger/impsad.wav
+creature_digger/imphit1.wav
+creature_digger/imphit2.wav
+creature_digger/imphit3.wav
+creature_digger/impdie1.wav
+creature_digger/impdie2.wav
+creature_digger/imphang.wav
+creature_digger/impdrop.wav
+creature_digger/imptor1.wav
+creature_digger/imptor2.wav
+creature_digger/imptor3.wav
+creature_digger/impslap.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+creature_wizard/wiztor1.wav
+creature_wizard/wiztor2.wav
+creature_wizard/wiztor1.wav
+creature_wizard/wizhapy.wav
+creature_wizard/wizsad.wav
+creature_wizard/wizhit1.wav
+creature_wizard/wizhit2.wav
+creature_wizard/wizhit3.wav
+creature_wizard/wizdie1.wav
+creature_wizard/wizdie2.wav
+creature_wizard/wizhang.wav
+creature_wizard/wizdrop.wav
+creature_wizard/wiztor1.wav
+creature_wizard/wiztor2.wav
+creature_wizard/wiztor1.wav
+creature_wizard/wizslap.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+creature_dog/hound1.wav
+creature_dog/hound2.wav
+creature_dog/hound3.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+creature_dog/dogdie.wav
+creature_dog/dogdie.wav
+creature_dog/doghang.wav
+creature_dog/dogdrop.wav
+creature_dog/hound1.wav
+creature_dog/hound2.wav
+creature_dog/hound3.wav
+creature_dog/dogslap.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+creature_wizard/wiztor1.wav
+creature_wizard/wiztor2.wav
+creature_wizard/wiztor1.wav
+creature_wizard/wizhapy.wav
+creature_wizard/wizsad.wav
+creature_wizard/wizhit1.wav
+creature_wizard/wizhit2.wav
+creature_wizard/wizhit3.wav
+creature_wizard/wizdie1.wav
+creature_wizard/wizdie2.wav
+creature_wizard/wizhang.wav
+creature_wizard/wizdrop.wav
+creature_wizard/wiztor1.wav
+creature_wizard/wiztor2.wav
+creature_wizard/wiztor1.wav
+creature_wizard/wizslap.wav
+null.wav	255
+creature_male/man3fgt1.wav
+creature_male/man1fgt2.wav
+creature_male/man1fgt3.wav
+creature_male/man3hapy.wav
+creature_male/man3sad.wav
+creature_male/man3hit1.wav
+creature_male/man3hit2.wav
+creature_male/man3hit3.wav
+creature_male/man3die1.wav
+creature_male/man3die2.wav
+null.wav	255
+creature_male/man3drop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man3hit1.wav
+null.wav	255
+creature_male/man3fgt1.wav
+creature_male/man1fgt2.wav
+creature_male/man1fgt3.wav
+creature_male/man3hapy.wav
+creature_male/man3sad.wav
+creature_male/man3hit1.wav
+creature_male/man3hit2.wav
+creature_male/man3hit3.wav
+creature_male/man3die1.wav
+creature_male/man3die2.wav
+null.wav	255
+creature_male/man3drop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man3hit1.wav
+null.wav	255
+creature_male/man2fgt1.wav
+creature_male/man1fgt1.wav
+creature_male/man1fgt2.wav
+creature_male/man2hapy.wav
+creature_male/man2sad.wav
+creature_male/man2hit1.wav
+creature_male/man2hit2.wav
+creature_male/man2hit3.wav
+creature_male/man2die1.wav
+creature_male/man2die2.wav
+null.wav	255
+creature_male/man2drop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man2hit1.wav
+null.wav	255
+creature_dwarfa/dwrftor1.wav
+creature_dwarfa/dwrftor2.wav
+creature_dwarfa/dwrftor1.wav
+creature_dwarfa/dwrfhapy.wav
+creature_dwarfa/dwrfsad.wav
+creature_dwarfa/dwrfhit1.wav
+creature_dwarfa/dwrfhit2.wav
+creature_dwarfa/dwrfhit3.wav
+creature_dwarfa/dwrfdie1.wav
+creature_dwarfa/dwrfdie2.wav
+creature_dwarfa/dwrfhang.wav
+creature_dwarfa/dwrfdrop.wav
+creature_dwarfa/dwrftor1.wav
+creature_dwarfa/dwrftor2.wav
+creature_dwarfa/dwrftor1.wav
+creature_dwarfa/dwrfslap.wav
+null.wav	255
+creature_male/man1fgt1.wav
+creature_male/man1fgt2.wav
+creature_male/man1fgt3.wav
+creature_male/man1hapy.wav
+creature_male/man1sad.wav
+creature_male/man1hit1.wav
+creature_male/man1hit2.wav
+creature_male/man1hit3.wav
+creature_male/man1die1.wav
+creature_male/man1die2.wav
+null.wav	255
+creature_male/man1drop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1hit1.wav
+null.wav	255
+creature_male/man2fgt1.wav
+creature_male/man1fgt1.wav
+creature_male/man1fgt2.wav
+creature_male/man2hapy.wav
+creature_male/man2sad.wav
+creature_male/man2hit1.wav
+creature_male/man2hit2.wav
+creature_male/man2hit3.wav
+creature_male/man2die1.wav
+creature_male/man2die2.wav
+null.wav	255
+creature_male/man2drop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man2hit1.wav
+null.wav	255
+creature_dwarfa/dwrftor1.wav
+creature_dwarfa/dwrftor2.wav
+creature_dwarfa/dwrftor1.wav
+creature_dwarfa/dwrfhapy.wav
+creature_dwarfa/dwrfsad.wav
+creature_dwarfa/dwrfhit1.wav
+creature_dwarfa/dwrfhit2.wav
+creature_dwarfa/dwrfhit3.wav
+creature_dwarfa/dwrfdie1.wav
+creature_dwarfa/dwrfdie2.wav
+creature_dwarfa/dwrfhang.wav
+creature_dwarfa/dwrfdrop.wav
+creature_dwarfa/dwrftor1.wav
+creature_dwarfa/dwrftor2.wav
+creature_dwarfa/dwrftor1.wav
+creature_dwarfa/dwrfslap.wav
+null.wav	255
+creature_female/femtor1.wav
+creature_female/femtor2.wav
+creature_female/femtor3.wav
+creature_female/femhapy.wav
+creature_female/femsad.wav
+creature_female/femhit1.wav
+creature_female/femhit1.wav
+creature_female/femhit1.wav
+creature_female/femdie1.wav
+creature_female/femdie2.wav
+null.wav	255
+creature_female/femdrop.wav
+creature_female/femtor1.wav
+creature_female/femtor2.wav
+creature_female/femtor3.wav
+creature_female/femhit1.wav
+null.wav	255
+creature_horny/horntor1.wav
+creature_horny/horntor2.wav
+creature_horny/horntor3.wav
+creature_horny/hornhapy.wav
+creature_horny/hornsad1.wav
+creature_horny/hornhit1.wav
+creature_horny/hornhit2.wav
+creature_horny/hornhit3.wav
+creature_horny/horndie1.wav
+creature_horny/horndie2.wav
+creature_horny/hornhang.wav
+creature_horny/horndrop.wav
+creature_horny/horntor1.wav
+creature_horny/horntor2.wav
+creature_horny/horntor3.wav
+creature_horny/hornslap.wav
+null.wav	255
+creature_female/femtor1.wav
+creature_female/femtor2.wav
+creature_female/femtor3.wav
+creature_female/femhapy.wav
+creature_female/femsad.wav
+creature_female/femhit1.wav
+creature_female/femhit1.wav
+creature_female/femhit1.wav
+creature_female/femdie1.wav
+creature_female/femdie2.wav
+null.wav	255
+creature_female/femdrop.wav
+creature_female/femtor1.wav
+creature_female/femtor2.wav
+creature_female/femtor3.wav
+creature_female/femhit1.wav
+null.wav	255
+creature_male/man1fgt1.wav
+creature_male/man1fgt2.wav
+creature_male/man1fgt3.wav
+creature_male/man1hapy.wav
+creature_male/man1sad.wav
+creature_male/man1hit1.wav
+creature_male/man1hit2.wav
+creature_male/man1hit3.wav
+creature_male/man1die1.wav
+creature_male/man1die2.wav
+null.wav	255
+creature_male/man1drop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1hit1.wav
+null.wav	255
+creature_male/man1fgt1.wav
+creature_male/man2fgt1.wav
+creature_male/man3fgt1.wav
+creature_samurai/samhapy.wav
+creature_samurai/samsad.wav
+creature_samurai/samhit1.wav
+creature_samurai/samhit2.wav
+creature_samurai/samhit3.wav
+creature_samurai/samdie1.wav
+creature_samurai/samdie2.wav
+creature_samurai/samhang.wav
+creature_samurai/samdrop.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_male/man1tor1.wav
+creature_samurai/samslap.wav
+keeper_spells/sp_apoc.wav
+keeper_spells/sp_armor.wav
+keeper_spells/sp_arms.wav
+keeper_spells/sp_chick.wav
+keeper_spells/sp_evil.wav
+keeper_spells/sp_heal.wav
+keeper_spells/sp_hold.wav
+keeper_spells/sp_imp.wav
+keeper_spells/sp_invis.wav
+keeper_spells/sp_light.wav
+keeper_spells/sp_obey.wav
+keeper_spells/sp_pest.wav
+keeper_spells/sp_poss.wav
+keeper_spells/sp_rock.wav
+keeper_spells/sp_speed.wav
+keeper_spells/sp_walls.wav
