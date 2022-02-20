@@ -1,4 +1,4 @@
-sound_bank_all_sounds
+﻿sound_bank_all_sounds
 footsteps/foot1a.wav
 footsteps/foot2a.wav
 footsteps/foot3a.wav
@@ -78,9 +78,9 @@ creature_spells/stars3.wav
 gui/slab3.wav
 terrain/torch2.wav
 coinsack.wav
-null.wav	255
-null.wav	255
-null.wav	255
+chicken/chick5a.wav
+chicken/chick5b.wav
+chicken/chick5c.wav
 keeper_spells/fanfare1.wav
 keeper_spells/fanfare3.wav
 rooms/training.wav
@@ -568,21 +568,21 @@ creature_dog/hound2.wav
 creature_dog/hound3.wav
 creature_dog/dogslap.wav
 null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
+gstnull.wav
 null.wav	255
 null.wav	255
 null.wav	255
@@ -838,3 +838,198 @@ keeper_spells/sp_poss.wav
 keeper_spells/sp_rock.wav
 keeper_spells/sp_speed.wav
 keeper_spells/sp_walls.wav
+new/arrow.wav
+new/beat2.wav
+new/bgrunt1.wav
+new/bgrunt2.wav
+new/bgrunt3.wav
+new/bigeh.wav
+new/bigsplat.wav
+new/bigyo1.wav
+new/bigyo2.wav
+new/bigyo3.wav
+new/build1.wav
+new/build2.wav
+new/build3.wav
+new/button4.wav
+new/death.wav
+new/death2.wav
+new/doorup.wav
+new/dragfgt1.wav
+new/dragfgt2.wav
+new/dragfgt3.wav
+new/draggen1.wav
+new/draggen2.wav
+new/draghit4.wav
+new/dspwfgt1.wav
+new/dspwfgt2.wav
+new/dspwfgt3.wav
+new/dspwgen1.wav
+new/dwrffgt1.wav
+new/dwrffgt2.wav
+new/dwrffgt3.wav
+new/fanfare2.wav
+new/fanfare3.wav
+new/fanfare4.wav
+new/femdie3.wav
+new/flare1.wav
+new/flare2.wav
+new/flare3.wav
+new/foot1.wav
+new/foot2.wav
+new/foot3.wav
+new/foot4.wav
+new/gobfgt1.wav
+new/gobfgt2.wav
+new/gobfgt3.wav
+new/gobgen1.wav
+new/heart3.wav
+new/heart4.wav
+new/heart5.wav
+new/heart6.wav
+new/heart6a.wav
+new/hornfgt1.wav
+new/hornfgt2.wav
+new/hornfgt3.wav
+new/horngen1.wav
+new/horngen2.wav
+new/hornhit4.wav
+new/hornhit5.wav
+new/hornhit6.wav
+new/hornsad2.wav
+new/hornsad3.wav
+new/hrthurt1.wav
+new/hrthurt2.wav
+new/hrthurt3.wav
+new/impfgt1.wav
+new/impfgt2.wav
+new/impfgt3.wav
+new/man2fgt2.wav
+new/man2fgt3.wav
+new/man3fgt2.wav
+new/man3fgt3.wav
+new/pad1.wav
+new/pad1test.wav
+new/pad2.wav
+new/pad2test.wav
+new/pad3.wav
+new/pad3test.wav
+new/pad4.wav
+new/pad4test.wav
+new/padtest1.wav
+new/padtest2.wav
+new/padtest3.wav
+new/padtest4.wav
+new/power1.wav
+new/power2.wav
+new/power3.wav
+new/power4.wav
+new/rebound.wav
+new/rockfall.wav
+new/samfgt1.wav
+new/samfgt2.wav
+new/samfgt3.wav
+new/samgen1.wav
+new/slab.wav
+new/slab2.wav
+new/smalleh.wav
+new/smallyo1.wav
+new/smallyo2.wav
+new/smallyo3.wav
+new/speedup.wav
+new/spurint1.wav
+new/spurint2.wav
+new/spurint3.wav
+new/spurint4.wav
+new/stars.wav
+new/stars2.wav
+new/swonhrt1.wav
+new/swonhrt2.wav
+new/tabfall.wav
+new/torch.wav
+new/tunnel1.wav
+new/tunnel2.wav
+new/tunnel3.wav
+new/twinkle.wav
+new/wind.wav
+new/wind2.wav
+new/wizfgt1.wav
+new/wizfgt2.wav
+new/wizfgt3.wav
+new/intro/doorbell.wav
+new/intro/doorcls.wav
+new/intro/doorcrk.wav
+new/intro/gallop.wav
+new/intro/horse.wav
+new/intro/horse2.wav
+new/intro/horse3.wav
+new/intro/pullup.wav
+new/intro/rain.wav
+new/intro/rain2.wav
+new/intro/rat.wav
+new/intro/shhh.wav
+new/intro/smash.wav
+new/intro/swrdout.wav
+new/intro/throwfir.wav
+new/intro/thunder.wav
+new/intro/thunder2.wav
+new/intro/thunder3.wav
+new/intro/walk.wav
+new/intro/wolf.wav
+new/intro/wolf2.wav
+impacts/anvil.wav
+impacts/clamour1.wav
+impacts/clamour2.wav
+impacts/clamour3.wav
+impacts/clamour4.wav
+impacts/clamour5.wav
+impacts/clamour6.wav
+impacts/clamour7.wav
+impacts/clamour8.wav
+impacts/clamour9.wav
+impacts/clamour10.wav
+impacts/clamour11.wav
+impacts/djembe1.wav
+impacts/djembe2.wav
+impacts/djembe3.wav
+impacts/flip.wav
+impacts/fruit1.wav
+impacts/fruit2.wav
+impacts/fruit3.wav
+impacts/gulp1.wav
+impacts/gulp2.wav
+impacts/hit.wav
+impacts/scrape1.wav
+impacts/scrape2.wav
+impacts/scrape3.wav
+impacts/slap2.wav
+impacts/tap.wav
+impacts/toasterstepa1.wav
+impacts/toasterstepa2.wav
+impacts/toasterstepa3.wav
+impacts/toasterstepb1.wav
+impacts/toasterstepb2.wav
+impacts/toasterstepb3.wav
+impacts/toasterstepb4.wav
+soundbank/atmos0.wav
+soundbank/atmos1.wav
+soundbank/atmos2.wav
+soundbank/atmos3.wav
+soundbank/atmos4.wav
+soundbank/atmos5.wav
+soundbank/atmos6.wav
+soundbank/atmos7.wav
+soundbank/atmos8.wav
+soundbank/atmos9.wav
+soundbank/atmos10.wav
+soundbank/atmos11.wav
+soundbank/atmos12.wav
+soundbank/atmos13.wav
+soundbank/atmos14.wav
+soundbank/atmos15.wav
+soundbank/atmoscombined1.wav
+soundbank/atmoscombined2.wav
+soundbank/atmoscombined3.wav
+soundbank/atmoscombined4.wav
+soundbank/atmoscombined5.wav
+soundbank/atmoscombined6.wav
