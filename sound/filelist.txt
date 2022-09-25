@@ -414,19 +414,19 @@ creature_demonspawn/dspwtor1.wav
 creature_demonspawn/dspwtor2.wav
 creature_demonspawn/dspwtor1.wav
 creature_demonspawn/dspwslap.wav
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
 creature_digger/imptor1.wav
 creature_digger/imptor2.wav
 creature_digger/imptor3.wav
@@ -500,22 +500,22 @@ creature_digger/imptor2.wav
 creature_digger/imptor3.wav
 creature_digger/impslap.wav
 null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
 null.wav	255
 creature_wizard/wiztor1.wav
 creature_wizard/wiztor2.wav
@@ -537,19 +537,19 @@ null.wav	255
 null.wav	255
 null.wav	255
 null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
+bugnull.wav
 null.wav	255
 creature_dog/hound1.wav
 creature_dog/hound2.wav
