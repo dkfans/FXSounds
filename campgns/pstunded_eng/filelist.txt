@@ -1,1 +1,12 @@
-﻿land_description_speeches
+﻿bad01.wav
+bad02.wav
+bad03.wav
+bad04.wav
+bad05.wav
+bad06.wav
+good01.wav
+good02.wav
+good03.wav
+good04.wav
+good05.wav
+good06.wav
