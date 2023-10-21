@@ -414,19 +414,19 @@ creature_demonspawn/dspwtor1.wav
 creature_demonspawn/dspwtor2.wav
 creature_demonspawn/dspwtor1.wav
 creature_demonspawn/dspwslap.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
+null.wav	255
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
+flynull.wav
 creature_digger/imptor1.wav
 creature_digger/imptor2.wav
 creature_digger/imptor3.wav
@@ -534,31 +534,31 @@ creature_wizard/wiztor2.wav
 creature_wizard/wiztor1.wav
 creature_wizard/wizslap.wav
 null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
-bugnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
+sprnull.wav
 null.wav	255
 creature_dog/hound1.wav
 creature_dog/hound2.wav
-creature_dog/hound3.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+creature_dog/hound3.wav
+creature_dog/hndnull.wav
+creature_dog/hndnull.wav
+creature_dog/hndnull.wav
+creature_dog/hndnull.wav
+creature_dog/hndnull.wav
 creature_dog/dogdie.wav
 creature_dog/dogdie.wav
 creature_dog/doghang.wav
@@ -583,25 +583,25 @@ gstnull.wav
 gstnull.wav
 gstnull.wav
 gstnull.wav
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
-null.wav	255
+gstnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
+tncnull.wav
 creature_wizard/wiztor1.wav
 creature_wizard/wiztor2.wav
 creature_wizard/wiztor1.wav
