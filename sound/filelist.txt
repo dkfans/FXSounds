@@ -697,7 +697,7 @@ creature_male/man1hit2.wav
 creature_male/man1hit3.wav
 creature_male/man1die1.wav
 creature_male/man1die2.wav
-null.wav	255
+creature_male/man2hang.wav
 creature_male/man1drop.wav
 creature_male/man1tor1.wav
 creature_male/man1tor1.wav
@@ -782,7 +782,7 @@ creature_female/femhit1.wav
 creature_female/femhit1.wav
 creature_female/femdie1.wav
 creature_female/femdie2.wav
-null.wav	255
+creature_female/femhang.wav
 creature_female/femdrop.wav
 creature_female/femtor1.wav
 creature_female/femtor2.wav
