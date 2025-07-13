@@ -1033,3 +1033,20 @@ soundbank/atmoscombined3.wav
 soundbank/atmoscombined4.wav
 soundbank/atmoscombined5.wav
 soundbank/atmoscombined6.wav
+null.wav	255
+null.wav	255
+null.wav	255
+null.wav	255
+creature_beholder/bhhit1.wav
+creature_beholder/bhhit2.wav
+creature_beholder/bhhurt1.wav
+creature_beholder/bhhapy1.wav
+creature_beholder/bhsad1.wav
+creature_beholder/bhdie1.wav
+creature_beholder/bhdrop.wav
+creature_beholder/bhtort1.wav
+creature_beholder/bhtort2.wav
+creature_beholder/bhtort3.wav
+creature_beholder/bhfight1.wav
+creature_beholder/bhfight2.wav
+creature_beholder/bhfight3.wav
