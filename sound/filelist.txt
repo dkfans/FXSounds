@@ -1040,7 +1040,7 @@ null.wav	255
 creature_beholder/bhhit1.wav
 creature_beholder/bhhit2.wav
 creature_beholder/bhhurt1.wav
-creature_beholder/bhhapy1.wav
+creature_beholder/bhhapy.wav
 creature_beholder/bhsad1.wav
 creature_beholder/bhdie1.wav
 creature_beholder/bhdrop.wav
