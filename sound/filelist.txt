@@ -1033,9 +1033,9 @@ soundbank/atmoscombined3.wav
 soundbank/atmoscombined4.wav
 soundbank/atmoscombined5.wav
 soundbank/atmoscombined6.wav
-null.wav	255
-null.wav	255
-null.wav	255
+creature_bird\birdcall.wav
+creature_bird\birdchirp.wav
+creature_bird\birdhurt.wav
 null.wav	255
 creature_beholder/bhhit1.wav
 creature_beholder/bhhit2.wav
