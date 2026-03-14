@@ -9,7 +9,7 @@ mentor/igame_dngn_breakin.wav
 mentor/igame_battle_attckonheart.wav
 mentor/igame_battle_alllost.wav
 mentor/igame_battle_allwon.wav
-mentor/igame_battle_crtrlost.wav
+mentor/igame_battle_alllost.wav
 mentor/igame_battle_crtrwon.wav
 mentor/igame_battle_crtrdefends.wav
 mentor/igame_battle_crtrattacks.wav
