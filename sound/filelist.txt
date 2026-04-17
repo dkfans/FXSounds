@@ -160,7 +160,7 @@ makebed.wav
 rooms/resdone.wav
 rooms/rescomp.wav
 thirdparty/cleanse.wav
-null.wav	255
+thirdparty/cleansetingle.wav
 null.wav	255
 null.wav	255
 null.wav	255
