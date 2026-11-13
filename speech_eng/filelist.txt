@@ -124,3 +124,4 @@ heroes/htaunt05.wav
 heroes/htaunt06.wav
 heroes/htaunt07.wav
 heroes/htaunt08.wav
+igame_scavng_success.wav
