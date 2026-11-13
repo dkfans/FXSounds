@@ -1066,3 +1066,8 @@ creature_maiden/maidslap.wav
 creature_maiden/maidfgt1.wav
 creature_maiden/maidfgt2.wav
 creature_maiden/maidfgt3.wav
+creature_spells/breath2.wav
+footsteps/squelch1.wav
+footsteps/squelch2.wav
+footsteps/squelch3.wav
+footsteps/squelch4.wav
